@@ -6,7 +6,7 @@ import "./styles.css";
 function App() {
   return (
     <div>
-      <h2>FORKED</h2>
+      <h2>ORIGINAL</h2>
       <hr />
       <h1>Refactor the renderGetter function so that it:</h1>
       <ul>
