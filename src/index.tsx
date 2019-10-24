@@ -18,7 +18,6 @@ function App() {
         <li>works for both Class and Functional components</li>
         <li>does not require type arguments</li>
         <li>all tests, linting and typechecking pass with no errors</li>
-        <b>t</b></b>
       </ul>
     </div>
   );
